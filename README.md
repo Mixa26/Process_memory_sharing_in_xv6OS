@@ -1,5 +1,6 @@
 # Process_memory_sharing_in_xv6OS
 Implementation of physical memory sharing between processes.
+Original project text is in the "OS Domaci 3" file.
 
 This was a university project we had to do.
 The point of this project is that two processes can share memory.
